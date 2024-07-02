@@ -1,4 +1,4 @@
-#Project Overview:
+# GitHub Profile Hunter
 GitHub profile hunter is a web-based application designed to streamline the process of retrieving comprehensive information about a GitHub user. By simply entering a username, users can quickly access a plethora of relevant details about the individual associated with that GitHub account. This project leverages modern web technologies and API handling to provide a user-friendly and efficient tool for developers, recruiters, and anyone interested in exploring GitHub profiles.
 
 ##
